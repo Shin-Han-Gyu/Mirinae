@@ -49,17 +49,17 @@ __https://j5a506.p.ssafy.io__
   - __Visual Studio Code__
   - __IntelliJ pro__
   - __Remix__ [Remix IDE](https://remix.ethereum.org/)  
-![화면_캡처_2021-10-08_025108](/uploads/274700d5dcb4d2ce2d6c52db9bd0406e/화면_캡처_2021-10-08_025108.jpg)  
+![화면_캡처_2021-10-08_025108](./assets/image1.jpeg)  
 
 ### Design Resources
   - __Tailwind__  
- ![hello-tailwind-css-thumbnail](/uploads/4de8c63564e8a1eb3930238025b94b7d/hello-tailwind-css-thumbnail.jpg)
+ ![hello-tailwind-css-thumbnail](./assets/image2.jpeg)
 
 <br/>
 
 ## 💻개발 환경 조성
 - 백엔드 서버와 블록체인 노드를 구성하는 서버를 별도로 운용  
-__docker images__  
+  __docker images__  
   - Back-End Server
     - nginx
     - openjdk:11
@@ -218,13 +218,14 @@ Tool : __Spring Frame Work__
 <br/>
 
 ### DB구조 (ERD)
-![ERD](/uploads/78ec402853070bddc11dd3dfd422f10a/ERD.jpg)  
+![ERD](./assets/image3.jpeg)  
 
 <br/>
 
 ### JPA
 [Spring JPA docs](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)  
 __JPA Repository, Query 통해 다양한 DB에 쉽게 적용 가능__
+
   - DB 테이블 구성을 JPA를 통해 구성  
 
 <br/>
